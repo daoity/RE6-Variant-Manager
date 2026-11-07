@@ -1,3 +1,13 @@
+# 发布记录
+
+## v1.0.1-test.4 — 测试版本 / Pre-release
+
+正式版仍为 v1.0.0。新增动作预设、独立时长与动作贴图方案。
+
+[完整测试版发布说明](PRERELEASE-v101-test4.md) · [贴图方案使用](Action-Textures.zh-CN.md) · [具体实现原理](EFFECT_IMPLEMENTATION.zh-CN.md)
+
+---
+
 # RE6 实时差分管理器 v1.0.0 正式版
 
 本次以 0.4.2 的功能为基础发布 1.0。以下汇总自上次 GitHub 正式版 **v0.3.2** 以来的更新。
