@@ -4,7 +4,7 @@
 
 正式版仍为 v1.0.0。新增动作预设、独立时长与动作贴图方案。
 
-[完整测试版发布说明](PRERELEASE-v101-test4.md) · [贴图方案使用](Action-Textures.zh-CN.md) · [具体实现原理](EFFECT_IMPLEMENTATION.zh-CN.md)
+[完整测试版发布说明](PRERELEASE-v101-test4.md) · [贴图方案使用](Action-Textures.zh-CN.md) · [Photoshop 手工制图](Handmade-Textures.zh-CN.md)
 
 ---
 

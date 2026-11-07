@@ -2,7 +2,7 @@
 
 > **测试版本：v1.0.1-test.4（Pre-release）**，不是正式版。新增动作预设、独立过渡时长和按动作选择贴图方案。下载见 [测试发行页](https://github.com/daoity/RE6-Variant-Manager/releases/tag/v1.0.1-test.4)；最新正式版仍为 [v1.0.0](https://github.com/daoity/RE6-Variant-Manager/releases/tag/v1.0.0)。
 >
-> [测试版设置与回退](TESTING.zh-CN.md) · [动作贴图方案](Action-Textures.zh-CN.md) · [特效如何实现](EFFECT_IMPLEMENTATION.zh-CN.md)。附件不含示例 PNG，请放入自己的遮罩和特效图。
+> [测试版设置与回退](TESTING.zh-CN.md) · [动作贴图方案](Action-Textures.zh-CN.md) · [Photoshop 手工制图](Handmade-Textures.zh-CN.md)。附件不含示例 PNG，请放入自己的遮罩和特效图。
 
 适用于 Steam PC 版《生化危机 6》的游戏内差分管理器。将模型的部件显隐保存为分组预设，在游戏中即时切换，也可以按本地主角血量自动切换。支持普通模型、独立头部、随机溶解和作者自定义遮罩与发光贴图。
 
